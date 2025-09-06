@@ -1,0 +1,172 @@
+[
+  {
+    "id": "fall_2025_001",
+    "name": "Orchard Mule",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Copper Mule Mug",
+    "instructions": "Add vodka, cloudy apple cider, fresh lime juice, and house-spiced demerara syrup to a copper mule mug filled with ice. Top with ginger beer and stir gently. Garnish with cinnamon stick, dehydrated apple wheel, and star anise.",
+    "image": "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=400",
+    "ingredients": [
+      {"name": "Vodka", "measure": "1.5 oz"},
+      {"name": "Cloudy Apple Cider", "measure": "2 oz"},
+      {"name": "Fresh Lime Juice", "measure": "0.5 oz"},
+      {"name": "House-Spiced Demerara Syrup", "measure": "0.25 oz"},
+      {"name": "Ginger Beer", "measure": "2 oz"}
+    ],
+    "garnish": "Cinnamon stick, dehydrated apple wheel, star anise",
+    "tags": ["Crisp", "Spiced", "Effervescent", "Seasonal"],
+    "notes": "Crowd-pleaser; rustic visual, easy to batch syrup in advance",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_002",
+    "name": "Autumn Ember",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Highball",
+    "instructions": "Use dark rum infused with fig & spice for 24-48 hours. Add rum, fresh lime juice, and demerara syrup to a highball glass filled with ice. Top with ginger beer and stir gently. Garnish with fig slice, Luxardo cherry, and cinnamon stick.",
+    "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?w=400",
+    "ingredients": [
+      {"name": "Dark Rum (fig & spice infused)", "measure": "1.5 oz"},
+      {"name": "Fresh Lime Juice", "measure": "0.75 oz"},
+      {"name": "Demerara Syrup", "measure": "0.25 oz"},
+      {"name": "Ginger Beer", "measure": "2 oz"}
+    ],
+    "garnish": "Fig slice, Luxardo cherry, cinnamon stick",
+    "tags": ["Dark", "Spiced", "Fig-forward"],
+    "notes": "Bold fall cocktail; photogenic, visually rich",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_003",
+    "name": "Blood Orange Cava Spritz",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Wine Glass",
+    "instructions": "Add Aperol and blood orange liqueur to a wine glass filled with ice. Top with Cava and soda water. Stir gently and garnish with dehydrated blood orange wheel and optional mint.",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=400",
+    "ingredients": [
+      {"name": "Aperol", "measure": "1 oz"},
+      {"name": "Blood Orange Liqueur", "measure": "0.5 oz"},
+      {"name": "Cava", "measure": "3 oz"},
+      {"name": "Soda Water", "measure": "0.5 oz"}
+    ],
+    "garnish": "Dehydrated blood orange wheel, optional mint",
+    "tags": ["Bright", "Fizzy", "Citrus-forward"],
+    "notes": "Refreshing, photogenic, keeps high menu visibility",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_004",
+    "name": "Mill Manhattan",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Coupe",
+    "instructions": "Add rye whiskey, sweet vermouth, and Angostura bitters to a mixing glass filled with ice. Stir well and strain into a chilled coupe glass. Garnish with a Luxardo cherry.",
+    "image": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=400",
+    "ingredients": [
+      {"name": "Rye Whiskey", "measure": "2 oz"},
+      {"name": "Sweet Vermouth", "measure": "0.75 oz"},
+      {"name": "Angostura Bitters", "measure": "2 dashes"}
+    ],
+    "garnish": "Luxardo Cherry",
+    "tags": ["Premium", "Rye-forward", "Bitter-sweet"],
+    "notes": "Price anchor; high-margin, classic presentation",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_005",
+    "name": "Apple Martini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Coupe",
+    "instructions": "Add Grey Goose vodka and dry vermouth to a mixing glass filled with ice. Stir well and strain into a chilled coupe glass. Garnish with 2 blue cheese stuffed olives.",
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=400",
+    "ingredients": [
+      {"name": "Grey Goose Vodka", "measure": "2 oz"},
+      {"name": "Dry Vermouth", "measure": "0.25 oz"}
+    ],
+    "garnish": "2 Blue Cheese Stuffed Olives",
+    "tags": ["Crisp", "Savory", "Ultra-dry"],
+    "notes": "Tribute drink; high-contrast, Instagram-ready",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_006",
+    "name": "Harvest Float",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Rocks Glass",
+    "instructions": "Add vodka and coffee liqueur to a rocks glass filled with ice. Slowly float the pumpkin cream mixture on top. Garnish with nutmeg dusting and cinnamon stick.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400",
+    "ingredients": [
+      {"name": "Vodka", "measure": "1 oz"},
+      {"name": "Coffee Liqueur", "measure": "0.5 oz"},
+      {"name": "Pumpkin Cream Float", "measure": "0.5-0.75 oz"}
+    ],
+    "garnish": "Nutmeg dusting, cinnamon stick",
+    "tags": ["Creamy", "Spiced", "Indulgent"],
+    "notes": "Seasonal dessert cocktail; layered float visually striking",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_007",
+    "name": "Espressotini",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Coupe",
+    "instructions": "Add vodka, coffee liqueur, and fresh espresso to a cocktail shaker filled with ice. Shake vigorously and strain into a chilled coupe glass. Garnish with cocoa stencil or vanilla garnish.",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400",
+    "ingredients": [
+      {"name": "Vodka", "measure": "1.5 oz"},
+      {"name": "Coffee Liqueur", "measure": "1 oz"},
+      {"name": "Fresh Espresso", "measure": "0.5 oz"}
+    ],
+    "garnish": "Cocoa stencil or vanilla garnish",
+    "tags": ["Coffee-forward", "Bold", "Dessert"],
+    "notes": "Second dessert option; aromatic and photogenic",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_008",
+    "name": "Cucumber Elder Collins",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Collins Glass",
+    "instructions": "Muddle 2-3 cucumber slices in the bottom of a Collins glass. Add gin, elderflower liqueur, fresh lemon juice, and ruby red grapefruit juice. Fill with ice and top with soda water. Garnish with cucumber ribbon spiraling inside glass and lemon wheel.",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=400",
+    "ingredients": [
+      {"name": "Gin", "measure": "1.5 oz"},
+      {"name": "Elderflower Liqueur", "measure": "0.5 oz"},
+      {"name": "Fresh Lemon Juice", "measure": "0.75 oz"},
+      {"name": "Ruby Red Grapefruit Juice", "measure": "1 oz"},
+      {"name": "Cucumber Slices", "measure": "2-3 slices"},
+      {"name": "Soda Water", "measure": "2 oz"}
+    ],
+    "garnish": "Cucumber ribbon spiraling inside glass, lemon wheel",
+    "tags": ["Herbal", "Crisp", "Refreshing"],
+    "notes": "Bright, visual, refreshing; perfect for contrast to heavier cocktails",
+    "date_modified": "2025-09-06 12:00:00"
+  },
+  {
+    "id": "fall_2025_009",
+    "name": "Chili-Pama Margarita",
+    "category": "Cocktail",
+    "alcoholic": "Alcoholic",
+    "glass": "Rocks Glass",
+    "instructions": "Rim rocks glass with chili-salt. Add tequila blanco, Pama liqueur, fresh lime juice, and agave syrup to a cocktail shaker filled with ice. Shake well and strain into the prepared glass over fresh ice. Garnish with lime wheel.",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=400",
+    "ingredients": [
+      {"name": "Tequila Blanco", "measure": "1.5 oz"},
+      {"name": "Pama Liqueur", "measure": "0.5 oz"},
+      {"name": "Fresh Lime Juice", "measure": "1 oz"},
+      {"name": "Agave Syrup", "measure": "0.25 oz"}
+    ],
+    "garnish": "Chili-salt rim, lime wheel",
+    "tags": ["Tart", "Spicy", "Ruby-red elegance"],
+    "notes": "Elegant tart/spicy combo; visually strong, color-forward",
+    "date_modified": "2025-09-06 12:00:00"
+  }
+]
+
